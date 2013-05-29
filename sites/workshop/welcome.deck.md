@@ -19,10 +19,11 @@
 * Spin-off Workshops
   * RailsGirls, PyStar, Python Ladies, Scala
   * Learn the Front End, Confident Coding JS, and...?
+.notes: Some are paid, some are free...we like the free kind.
 
 <!SLIDE bullets>
 # Why are we here?
-We want the community of software developers to reflect the diversity of our society
+We want the community of software developers to reflect the diversity of our society.
 
 <!SLIDE bullets>
 # Why are we here?
@@ -39,13 +40,14 @@ We want the community of software developers to reflect the diversity of our soc
 | <img src="img/ruby-logo.jpg" alt="Ruby" width="250"> | <img src="img/rails_logo.jpg" alt="Rails" width="250"> |
 
 <!SLIDE bullets>
-# Ruby: programming language
+# Ruby: 'le programming language
 
 * Object oriented
 * General purpose
+.notes You can even control robots with it if you want to.
 
 <!SLIDE bullets>
-# Rails: web application framework
+# Rails: 'le web application framework \*insert french accent\*
 
 * Database agnostic
 * Built using the Ruby Language
@@ -69,8 +71,9 @@ We want the community of software developers to reflect the diversity of our soc
 
 ![Agile Manifesto](img/agile.jpg)
 
-* Pair programming
-* Test-driven or Behavior-driven development
+* Some tools often associated with Agile:
+  * Pair programming
+  * Test-driven or Behavior-driven development
 
 <!SLIDE bullets>
 # Goal:
@@ -80,7 +83,7 @@ We want the community of software developers to reflect the diversity of our soc
 <!SLIDE bullets>
 # Don't be shy!
 * Ask questions!
-* TAs and teachers are here to help
+* TAs and teachers are here to help.
 
 <!SLIDE bullets>
 # Tools we'll be working with
@@ -103,5 +106,22 @@ We want the community of software developers to reflect the diversity of our soc
 * Rails
   * learn tools and patterns for building web apps in Ruby on Rails
 
----
-Proceed to next slide deck: [Today's Workshop Info and Schedule](current)
+<!SLIDE bullets>
+# Thank you to our lovely sponsors!
+![Yammer](img/yammer.png)
+
+<!SLIDE bullets>
+# And thank you Ryan!
+![Ryan](img/ryan_kennedy.jpg)
+
+<!SLIDE bullets>
+# Loose Schedule
+* 9:00-9:30 Introductions & Coffee
+* 9:30-10:00 Workshop Intro
+* 10:00-10:50 Session 1
+* 11:00-12:00 Session 2
+* 12:00-1:00 Lunch
+* 1:00-2:15 Session 3
+* 2:30-3:30 Session 4
+* 3:30-4:00 Wrap up & final questions
+* 4:00 Grab a drink (or 2 or 3?) at ?
