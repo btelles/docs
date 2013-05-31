@@ -40,21 +40,22 @@ We want the community of software developers to reflect the diversity of our soc
 | <img src="img/ruby-logo.jpg" alt="Ruby" width="250"> | <img src="img/rails_logo.jpg" alt="Rails" width="250"> |
 
 <!SLIDE bullets>
-# Ruby: 'le programming language
+# Ruby:
 
 * Object oriented
 * General purpose
 .notes You can even control robots with it if you want to.
 
 <!SLIDE bullets>
-# Rails: 'le web application framework \*insert french accent\*
+# Rails:
 
 * Database agnostic
-* Built using the Ruby Language
+* Built using the Ruby language
 * History
   * 37signals
   * 2004 - first released as open source
   * 2007 - shipped with Mac OS 10.5 "Leopard"
+![Web Server](img/web_servers.png)
 
 <!SLIDE bullets>
 # The Rails Philosophy
@@ -65,15 +66,6 @@ We want the community of software developers to reflect the diversity of our soc
   * less code means it's easier to maintain & modify
 * Test Driven Development (TDD)
 * Minimal code - maximal effect
-
-<!SLIDE bullets>
-# Agile development
-
-![Agile Manifesto](img/agile.jpg)
-
-* Some tools often associated with Agile:
-  * Pair programming
-  * Test-driven or Behavior-driven development
 
 <!SLIDE bullets>
 # Goal:
