@@ -116,6 +116,6 @@ We want the community of software developers to reflect the diversity of our soc
 * 1:15-2:15 Session 3
 * 2:30-3:30 Session 4
 * 3:30-4:30 Wrap up & Retro
-* 4:00 Grab a drink (or 2 or 3?) at ?
+* 4:30 Grab a drink (or 2 or 3?) at Absinthe
 <!SLIDE>
 ![layout](img/yammer_layout.png)
