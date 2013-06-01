@@ -1,4 +1,4 @@
-<!SLIDE bullets incremental>
+s<!SLIDE bullets incremental>
 # Congratulations!
 * You've completed the RailsBridge Curriculum!
 
@@ -29,6 +29,10 @@
 * http://pinterest.com/eanakashima/learn-the-front-end/
 * #RailsBridge, #Rails IRC channel
 * DevChix E-mail list http://www.devchix.com/
+
+<!SLIDE bullets>
+# Questions?
+* Don't be shy!
 
 <!SLIDE bullets>
 # Anonymous Feedback
