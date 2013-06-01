@@ -1,16 +1,13 @@
 <!SLIDE bullets incremental>
-# You have completed RailsBridge #38!
-* Congratulations!
+# Congratulations!
+* You've completed the RailsBridge Curriculum!
 
-
-<!SLIDE bullets>
-# Please thank our awesome sponsor!
-![EngineYard](img/ey_logo_rgb.png)
-
-<!SLIDE bullets>
-# Celebrate!
-* After-party 
-* Conference Party
+<!SLIDE bullets incremental>
+# Thank you thank you thank you(s)!
+* Thank you to you guys for coming!
+* A big thank you to our volunteers!
+* A huge thank you to our awesome sponsor!
+![Yammer](img/yammer_logo.jpg)
 
 <!SLIDE bullets>
 # What did we learn?
@@ -19,17 +16,24 @@
 * MVC design pattern
 
 <!SLIDE bullets>
+# Moving forward...!
+* Hopefully we managed to demystify a few things
+* Do not be discouraged!
+* Learn enthusiastically!
+* Get involved!
+
+<!SLIDE bullets>
 # Resources:
 * http://installfest.railsbridge.org/workshop/resources
 * http://pinterest.com/pvnrtmol/ruby-and-rails-resources/
 * http://pinterest.com/eanakashima/learn-the-front-end/
-* Follow-up:
-* Ruby Users of Minnesota — a fine group of Ruby enthusiasts from around the Twin Cities metro area, or pretty much wherever they feel like driving from. Our group meets on the last Monday of each month at 7 PM http://ruby.mn/
-* RailsBridge IRC channel
+* #RailsBridge, #Rails IRC channel
 * DevChix E-mail list http://www.devchix.com/
-* Systers mailing list
-* Want to organize a workshop? join railsbridge-workshops@googlegroups.com
 
 <!SLIDE bullets>
-# RIGHT NOW
-* TAKE THIS SURVEY RIGHT NOW: http://bit.ly/workshop_survey 
+# Anonymous Feedback
+* http://bit.ly/workshop_survey
+
+<!SLIDE bullets incremental>
+# After-party
+* Time to celebrate!
