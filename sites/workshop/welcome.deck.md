@@ -49,8 +49,9 @@ We want the community of software developers to reflect the diversity of our soc
 <!SLIDE bullets>
 # Rails:
 
-* Database agnostic
+* A bunch of parts / libraries / components
 * Built using the Ruby language
+* Makes web programming  easy
 * History
   * 37signals
   * 2004 - first released as open source
@@ -60,12 +61,11 @@ We want the community of software developers to reflect the diversity of our soc
 <!SLIDE bullets>
 # The Rails Philosophy
 
-* Opinionated
-* Convention over configuration
+* Programmer happiness
+* Convention over configuration (also known as "opinionated")
 * DRY (Don't Repeat Yourself)
   * less code means it's easier to maintain & modify
 * Test Driven Development (TDD)
-* Minimal code - maximal effect
 
 <!SLIDE bullets>
 # Goal:
@@ -81,7 +81,7 @@ We want the community of software developers to reflect the diversity of our soc
 # Tools we'll be working with
 * **rails**
 * **rake**: An easy way to run tasks.
-* **git**: source code control.
+* **git**: source code control (i.e. a history of changes)
 * **database**: we'll use SQLite, but could be any relational database.
 * **editor**: Sublime Text 2
 * **heroku**: free Rails hosting.
@@ -110,10 +110,10 @@ We want the community of software developers to reflect the diversity of our soc
 # Loose Schedule
 * 9:00-9:30 Introductions & Coffee
 * 9:30-10:00 Workshop Intro
-* 10:00-10:50 Session 1
-* 11:00-12:00 Session 2
-* 12:00-1:00 Lunch
-* 1:00-2:15 Session 3
+* 10:00-11:15 Session 1
+* 11:25-12:25 Session 2
+* 12:25-1:15 Lunch
+* 1:15-2:15 Session 3
 * 2:30-3:30 Session 4
 * 3:30-4:00 Wrap up & final questions
 * 4:00 Grab a drink (or 2 or 3?) at ?
