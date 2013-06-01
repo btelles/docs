@@ -8,8 +8,8 @@
 
 * It's a community project!
   * Many individuals
-  * RailsBridge
-  * DevChix
+  * Volunteering!
+  * For free!
 
 * All materials are open!
   * RailsBridge wiki
@@ -80,7 +80,7 @@ We want the community of software developers to reflect the diversity of our soc
 <!SLIDE bullets>
 # Tools we'll be working with
 * **rails**
-* **rake**: like make for Ruby. An easy way to run tasks.
+* **rake**: An easy way to run tasks.
 * **git**: source code control.
 * **database**: we'll use SQLite, but could be any relational database.
 * **editor**: Sublime Text 2
@@ -117,3 +117,5 @@ We want the community of software developers to reflect the diversity of our soc
 * 2:30-3:30 Session 4
 * 3:30-4:00 Wrap up & final questions
 * 4:00 Grab a drink (or 2 or 3?) at ?
+<!SLIDE>
+![layout](img/yammer_layout.png)
