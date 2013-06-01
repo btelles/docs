@@ -42,8 +42,8 @@ We want the community of software developers to reflect the diversity of our soc
 <!SLIDE bullets>
 # Ruby:
 
-* Object oriented
 * General purpose
+* Object oriented
 .notes You can even control robots with it if you want to.
 
 <!SLIDE bullets>
